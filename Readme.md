@@ -1,3 +1,10 @@
+pytest-bdd-allure
+--------------------
+Automation framework using pytest with Behavior driver approach (BDD) using allure reporting to automate sample web application(chrome).
+
+
+
+
 To install dependent packages execute below command:
 
     - pip install -r /path/to/requirements.txt
