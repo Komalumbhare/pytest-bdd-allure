@@ -1,4 +1,4 @@
-pytest-bdd-allure
+pytest-bdd-allure framework
 --------------------
 Automation framework using pytest with Behavior driver approach (BDD) using allure reporting to automate sample web application(chrome).
 
