@@ -1,0 +1,5 @@
+selenium
+behave
+webdriver-manager
+packaging
+allure-behave
